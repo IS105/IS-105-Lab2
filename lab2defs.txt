@@ -1,0 +1,33 @@
+operatør prioritet in Python: 
+lambda : funksjon som ikke inkluderer en "return" setning. "return" er med i selve definisjonen.
+
+if - else: en betingelse. Hvis betingelsen er sann så skal det utføres en funksjon, ellers en annen funksjon. 
+
+and: det betyr og, altså &&. 
+
+not x: 
+
+in, not in, is, is not, <, <=, >, >=, <>, !=, == : sammenlignings operatører. 
+
+|: betyr eller, for eks. en eller to 
+
+^:
+
+&: betyr and 
+
+<<, >> : betyr å flytte mot høyre, eller venstre. 
+
++, -: betyr å legge til, eller trekke fra. 
+
+*, /, //, %	: multiplikasjoner, divisjon og resterende verdi av et uttrykk. 
+
++x, -x, ~x : positiv, negativ og ca(cirka) 
+
+**: 
+
+x[index], x[index:index], x(arguments...), x.attribute: 
+
+(expressions...), [expressions...], {key: value...}, `expressions...`	
+
+
+
